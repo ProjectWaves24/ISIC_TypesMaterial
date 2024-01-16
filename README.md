@@ -19,19 +19,33 @@ We have analyzed following files:
 
 
 ISIC_0171865.dcm 
+
 ISIC_0585534.dcm 
+
 ISIC_2406681.dcm  
+
 ISIC_2479848.dcm
+
 ISIC_0206261.dcm 
+
 ISIC_0740997.dcm 
+
 ISIC_2417982.dcm
+
 ISIC_2493881.dcm
+
 ISIC_0460023.dcm  
+
 ISIC_2382043.dcm
+
 ISIC_2423944.dcm 
+
 ISIC_2518681.dcm
+
 ISIC_0520611.dcm
+
 ISIC_2401138.dcm
+
 ISIC_2455226.dcm
 
 Then these files were renamed as
@@ -39,19 +53,33 @@ Then these files were renamed as
 ISIC1.m-ISIC15.m in the following order:
 
 ISIC_0171865.dcm  --- ISIC1.dcm
+
 ISIC_0206261.dcm  ... ISIC2.dcm
+
 ISIC_0460023.dcm  
+
 ISIC_0520611.dcm   .... ISIC4.dcm
+
 ISIC_0585534.dcm
+
 ISIC_0740997.dcm
+
 ISIC_2382043.dcm
+
 ISIC_2401138.dcm
+
 ISIC_2406681.dcm
+
 ISIC_2417982.dcm
+
 ISIC_2423944.dcm
+
 ISIC_2455226.dcm
+
 ISIC_2479848.dcm
+
 ISIC_2493881.dcm
+
 ISIC_2518681.dcm  --- ISIC15.dcm
 
 ********************************************************************
