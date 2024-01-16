@@ -5,7 +5,7 @@ Download DICOM Corrected* (6.7GB)
 10,982 DICOM images with embedded metadata.
 
 
-Files  ISIC*.dcm  can be   shown and data from them can be used in MATLAB, for example:
+Files  ISIC*.dcm  can be can be analyzed in MATLAB, for example:
 
 
 info = dicominfo('ISIC_0740997.dcm');
@@ -15,13 +15,24 @@ figure
 
 imshow(Y,[]);
 
-We have analyzed following files from https://challenge2020.isic-archive.com/
+We have analyzed following files: 
 
-GLOBFEM$ ls
-ISIC_0171865.dcm  ISIC_0585534.dcm  ISIC_2406681.dcm  ISIC_2479848.dcm
-ISIC_0206261.dcm  ISIC_0740997.dcm  ISIC_2417982.dcm  ISIC_2493881.dcm
-ISIC_0460023.dcm  ISIC_2382043.dcm  ISIC_2423944.dcm  ISIC_2518681.dcm
-ISIC_0520611.dcm  ISIC_2401138.dcm  ISIC_2455226.dcm
+
+ISIC_0171865.dcm 
+ISIC_0585534.dcm 
+ISIC_2406681.dcm  
+ISIC_2479848.dcm
+ISIC_0206261.dcm 
+ISIC_0740997.dcm 
+ISIC_2417982.dcm
+ISIC_2493881.dcm
+ISIC_0460023.dcm  
+ISIC_2382043.dcm
+ISIC_2423944.dcm 
+ISIC_2518681.dcm
+ISIC_0520611.dcm
+ISIC_2401138.dcm
+ISIC_2455226.dcm
 
 Then these files were renamed as
 
