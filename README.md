@@ -1,4 +1,7 @@
-The data are copied from
+Directory contains Matlab code for generation of dielectric properties (dielectric permittivity and conductivity) 
+for images from ISIC dataset.
+
+The data for testing are copied from
 https://challenge2020.isic-archive.com/
 
 Download DICOM Corrected* (6.7GB)
