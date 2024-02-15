@@ -8,7 +8,9 @@ Download DICOM Corrected* (6.7GB)
 10,982 DICOM images with embedded metadata.
 
 
-Files  ISIC*.dcm  can be can be analyzed in MATLAB, for example:
+Some of dicom-files (15 files) are  located  in  ISIC15dcm.zip, see their description below.
+
+All files  named  ISIC*.dcm  can be can be analyzed in MATLAB, for example:
 
 
 info = dicominfo('ISIC_0740997.dcm');
@@ -18,7 +20,7 @@ figure
 
 imshow(Y,[]);
 
-We have analyzed following files: 
+We have analyzed following dicom files (all of them are in ISIC15dcm.zip):
 
 
 ISIC_0171865.dcm 
@@ -51,7 +53,7 @@ ISIC_2401138.dcm
 
 ISIC_2455226.dcm
 
-Then these files were renamed as
+Then these files were renamed   ( see archive ISIC15dcm.zip ) as 
 
 ISIC1.m-ISIC15.m in the following order:
 
